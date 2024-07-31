@@ -77,7 +77,6 @@
 - **BridgeSolar App:** Created using Flutter for the frontend, Python (FastAPI) for the backend, and MongoDB for the database.
 - **NeemLeaf App:** Built with Angular for the frontend, Java (SpringBoot) for the backend, and PostgreSQL for the database.
 - **Bridge Console App:** Implemented with Angular for the frontend, Java (SpringBoot) for the backend, and PostgreSQL for the database.
-- Developing a crypto coin tracker mobile app using Google Flutter SDK.
 
 ---
 
