@@ -4,7 +4,7 @@
 ✉️ [nyaletey@andrews.edu](mailto:nyaletey@andrews.edu)  
 🔗 [LinkedIn Profile](http://linkedin.com/in/emmanuel-nyaletey-b3bb3b16a)  
 
-**Software engineer specializing in full-stack system analysis, design, and development and data science but curious about everything. Seeking senior software engineer roles.**
+**Software engineer specializing in full-stack system analysis, design, and development and data science but curious about everything.**
 
 ---
 
