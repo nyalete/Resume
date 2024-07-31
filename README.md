@@ -1,10 +1,15 @@
+---
+layout: resume
+title: Emmanuel Nyaletey's Resume
+---
+
 # Emmanuel Nyaletey
 
 📞 **404-259-6885**  
 ✉️ [nyaletey@andrews.edu](mailto:nyaletey@andrews.edu)  
 🔗 [LinkedIn Profile](http://linkedin.com/in/emmanuel-nyaletey-b3bb3b16a)  
 
-**Software engineer specializing in full-stack system analysis, design, and development and data science but curious about everything.**
+**Software engineer specializing in full-stack system analysis, design, and development and data science but curious about everything. Seeking senior software engineer roles.**
 
 ---
 
@@ -77,6 +82,7 @@
 - **BridgeSolar App:** Created using Flutter for the frontend, Python (FastAPI) for the backend, and MongoDB for the database.
 - **NeemLeaf App:** Built with Angular for the frontend, Java (SpringBoot) for the backend, and PostgreSQL for the database.
 - **Bridge Console App:** Implemented with Angular for the frontend, Java (SpringBoot) for the backend, and PostgreSQL for the database.
+- Developing a crypto coin tracker mobile app using Google Flutter SDK.
 
 ---
 
