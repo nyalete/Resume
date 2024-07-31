@@ -1,8 +1,3 @@
----
-layout: resume
-title: Emmanuel Nyaletey's Resume
----
-
 # Emmanuel Nyaletey
 
 📞 **404-259-6885**  
